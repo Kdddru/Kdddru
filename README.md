@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 💻development environment
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
+   main : <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
 </p>
 
 #### little bit : <img src="https://img.shields.io/badge/mac-000000?style=flat&logo=apple&logoColor=white"/>
