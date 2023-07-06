@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 little bit : <img src="https://img.shields.io/badge/mac-000000?style=flat&logo=apple&logoColor=white"/>
 
 
-### IDE
+### 📱IDE
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 
