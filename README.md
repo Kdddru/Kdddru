@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Kimdu's%20github&fontSize=90" />
 ### Hi there 👋
 
 <!--
@@ -14,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# ReadMe
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Kimdu's%20github&fontSize=90" />
 
 ### 🛠stack
 <p>
