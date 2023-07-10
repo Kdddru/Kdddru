@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠stack
+### 🛠Stack
 <p>
   <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/></a>
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 ### 📃Database
 <p>NoSQL : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> </p>
 
-### 💻development environment
+### 💻Development environment
 <p>
-   main : <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
+   Main : <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
 </p>
 
-little bit : <img src="https://img.shields.io/badge/mac-000000?style=flat&logo=apple&logoColor=white"/>
+Little bit : <img src="https://img.shields.io/badge/mac-000000?style=flat&logo=apple&logoColor=white"/>
 
 
 ### 📱IDE
